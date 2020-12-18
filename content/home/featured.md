@@ -17,3 +17,4 @@ content:
 design:
   view: 3
 ---
+* Artifact Evaluation Committee - Computer-Aided Verification
