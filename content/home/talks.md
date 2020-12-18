@@ -1,6 +1,7 @@
 ---
 widget: pages
 widget_id: Academic Activities
+active: false
 headless: true
 weight: 70
 title: Academic Activities
