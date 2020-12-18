@@ -41,4 +41,4 @@ highlight_name: false
 ---
 I am a final-year Ph.D. student in computer science at Shanghai Jiao Tong University. I am advised by Prof. Yuxi Fu and Dr. Hongfei Fu. I am mainly interested in formal methods, aiming at proving system correctness by rigorous mathematical approaches.   Currently, my focus is on program verification and model checking (for probabilistic/concurrent programs).
 
-{{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Peixin Wang.pdf" "newtab" >}}resume{{< /staticref >}}.
