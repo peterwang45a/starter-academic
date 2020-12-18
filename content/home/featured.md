@@ -1,6 +1,7 @@
 ---
 widget: featured
 widget_id: Academic Activites
+active: false
 headless: true
 weight: 30
 title: Academic Activites
