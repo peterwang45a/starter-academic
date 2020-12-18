@@ -42,9 +42,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I am a final-year Ph.D. student in computer science at Shanghai Jiao Tong University. My advisors are Prof. Yuxi Fu and Dr. Hongfei Fu. I am mainly interested in formal methods, aiming at proving system correctness by rigorous mathematical approaches.   Currently, my focus is on program verification and model checking (for probabilistic/concurrent programs).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
