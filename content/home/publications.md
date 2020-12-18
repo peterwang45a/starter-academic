@@ -23,4 +23,4 @@ design:
 
 <br>
 
-* Peixin Wang, Hongfei Fu, Amir Kafshdar Goharshady, Krishnendu Chatterjee, Xudong Qin and Wenjun Shi. Cost analysis of nondeterministic probabilistic programs. In PLDI 2019. <br> [Preprint](https://arxiv.org/pdf/1902.04659.pdf)&ensp; [Published version](https://dl.acm.org/doi/10.1145/3314221.3314581)&ensp; [Artifact](https://doi.org/10.5281/zenodo.2640455)
+* Peixin Wang, Hongfei Fu, Amir Kafshdar Goharshady, Krishnendu Chatterjee, Xudong Qin and Wenjun Shi. &ldquo;Cost analysis of nondeterministic probabilistic programs&rdquo;. In PLDI 2019. <br> [Preprint](https://arxiv.org/pdf/1902.04659.pdf)&ensp; [Published version](https://dl.acm.org/doi/10.1145/3314221.3314581)&ensp; [Artifact](https://doi.org/10.5281/zenodo.2640455)
